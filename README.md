@@ -7,5 +7,5 @@ Key Features of a To-Do List Application:
 1. Task Management
 2. Task Organization
 3. Task Views
-4. Reminders and Push Notifications ,many others
-Thia Project aims to create a command-line or GUI based application using Python , allows users to create , update and track their to do list
+4. Reminders and Push Notifications ,many others.
+This Project aims to create a command-line or GUI based application using Python , allows users to create , update and track their to do list
