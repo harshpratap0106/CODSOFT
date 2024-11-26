@@ -1,5 +1,9 @@
+#CREATED BY - HARSH PRATAP SINGH PARIHAR
+#TASK 2 - CALCULATOR
+
 
 #Calculator 
+print (".....WELCOME TO CALCULATOR!.....")
 def sum(num1,num2):  
     return num1+num2 
 def sub(num1,num2):
