@@ -1,5 +1,5 @@
 ## HOTEL MANAGEMENT SYSTEM 
-##BY HARSH P. S. PARIHAR
+## BY HARSH P. S. PARIHAR
 
 
 from datetime import datetime
