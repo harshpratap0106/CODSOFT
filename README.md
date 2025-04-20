@@ -1,5 +1,5 @@
-# CODSOFT
-CODSOFT INTERNSHIP PROJECT (PYTHON PROGRAMMING)
+# PYTHON PROJECTS
+PROJECT (PYTHON PROGRAMMING)
 
 TASK 1: TO DO LIST PROJECT
 
@@ -18,5 +18,11 @@ Key Features of a To-Do List Application:
  This Calculator uses a arithmetic operations to perform basic mathematics problems like addition (+) , substraction (-) , multiplication  (*) abd division (/) .
 
  This project aims to calculator with basic arithmetic operations using python , allows us to do basic mathmatical operations like addition , substraction, multiplication  and division .
+
+ TASK 3 : BANK MANAGEMENT SYSTEM 
+
+ TASK 4: HOTEL MANAGEMENT SYSTEM 
+
+ TASK 5 : MINI AI CHATBOT
 
  
